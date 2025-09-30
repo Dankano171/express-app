@@ -1,0 +1,5 @@
+# Node.js Project Dependencies
+# This file lists the necessary packages to run the application.
+# To install, use npm: 'npm install express'
+
+express
