@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Simple REST API using Express.js for Mini Project Assessment.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2" 
+    // The version number might vary slightly, but this is the key dependency.
+  }
+}
